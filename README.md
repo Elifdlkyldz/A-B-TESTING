@@ -14,6 +14,9 @@ The max binding strategy was presented to the control group, and the average bin
 Features:
 
 Impression:	Ad views count
+
 Click :	The number of clicks on the displayed ad
+
 Purchase: The number of products purchased after the ads clicked
+
 Earning	: Earnings after purchased products
